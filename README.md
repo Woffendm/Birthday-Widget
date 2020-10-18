@@ -31,5 +31,3 @@ You can disable the color-changing effect by setting the 'lame' html attribute t
 
 If you want the cake image, then you will need FontAwesome CSS and fonts. You can get them here: http://fortawesome.github.io/Font-Awesome/ (it really is awesome!)
 
-If you want to use the model and spec file, you'll need the base class and spec helper from our other repo: URL-GOES-HERE
-
